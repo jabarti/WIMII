@@ -1,0 +1,3 @@
+WIMII
+=====
+to jest readme
